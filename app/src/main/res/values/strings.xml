@@ -1,0 +1,40 @@
+<resources>
+    <string name="app_name">ProyectoFinalPrograIII</string>
+    <string name="titulo">My APP :D</string>
+    <string name="tvCerrar">Cerrar</string>
+    <string name="btRegistrarVenta">Registrar Venta</string>
+    <string name="txtLog">MY-LOGIN</string>
+    <string name="txtReporteVentas">MY-REPORTE-VENTAS</string>
+    <string name="rbEfectivo">Efectivo</string>
+    <string name="rbTarjeta">Tarjeta</string>
+    <string name="rbQR">QR</string>
+    <string name="btRegistrarProducto">Registrar Producto</string>
+    <string name="btRegistrarCliente">Registrar Cliente</string>
+    <string name="etUsuario">Ingrese su nombre de Usuario</string>
+    <string name="etPassword">Ingrese su password</string>
+    <string name="txtRegistrarVendedor">Registro Vendedor</string>
+    <string name="txtRegistrar">Registro-Cliente</string>
+    <string name="etCarnet">Ingrese su CI</string>
+    <string name="etNombre">Ingrese su Nombre Completo</string>
+    <string name="etCelular">Ingrese su Numero de Celular</string>
+    <string name="btGuardarCliente">Guardar-Cliente</string>
+    <string name="btReporteVenta">Reporte-Ventas</string>
+    <string name="etNombreC">Ingrese su Nombre Completo</string>
+    <string name="btActualizarCliente">Actualizar/Datos</string>
+    <string name="btEliminarCliente">Elimar/Cliente</string>
+    <string name="txtRegistroP">Registro-Producto</string>
+    <string name="etNombreP">Nombre del Producto</string>
+    <string name="etMarcaP">Marca del producto</string>
+    <string name="etPrecioUniProducto">Precio unitario del producto</string>
+    <string name="etCantidad">Ingrese la cantidad</string>
+    <string name="etNumFact">Ingrese el Numero de Factura</string>
+    <string name="txtRegistrarVenta">Registrar-Venta</string>
+    <string name="btnActualizarPro">Actualizar Producto</string>
+    <string name="btnEliminarPro">Eliminar Producto</string>
+    <string name="btRegistrarVendedor">Registrar-Vendedor</string>
+    <string name="btIniciarSesion">Iniciar-Sesion</string>
+    <string name="etCodigoProducto">CodigoProducto</string>
+    <string name="txtDetalleVentaVendedor">Detalle-Venta-Vendedor</string>
+    <string name="txtDetalleComprasCliente">Detalle-Compras-Cliente</string>
+
+</resources>
